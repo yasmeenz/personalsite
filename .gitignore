@@ -1,0 +1,13 @@
+# Supabase CLI local state (project link, pooler URL, versions)
+supabase/.temp/
+supabase/.branches/
+.env
+.env.*
+
+# Local Claude Code permissions
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+__pycache__/
